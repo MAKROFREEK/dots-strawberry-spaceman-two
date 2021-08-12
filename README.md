@@ -1,4 +1,4 @@
- **LetsHaveKiddos** | **Strawberry Spaceman**
+ **LetsHaveKiddos** | **Strawberry Spaceman Two **
 ===========================
 
 Just a theme made from a color palette from a wallpaper. 
@@ -29,6 +29,8 @@ Just a theme made from a color palette from a wallpaper.
 
 * picom-ibhagwan-git
 
+* Nerd Fonts Complete Mono
+
 **Other tools I use:**
 
 * Sublime
@@ -49,8 +51,8 @@ Just a theme made from a color palette from a wallpaper.
 ## INSTALLATION GUIDE COMING SOON
 ===========================
 
-replace DP-2 with your monitor settings
-replace hdmi-0 with your monitor settings
+replace DP-2 with your monitor(s)
+replace hdmi-0 with your monitor(s)
 
 ## Screens:
 
